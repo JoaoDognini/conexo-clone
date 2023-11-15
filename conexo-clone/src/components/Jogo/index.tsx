@@ -24,7 +24,7 @@ export default function Jogo() {
 
 	const [palavrasEmJogo, setPalavrasEmJogo] = useState<Palavra[]>(() => {
 		const palavrasEmJogoFormatado = localStorage.getItem(`palavrasEmJogo-${jogo}`);
-		const palavrasAleatorias = palavrasJogo.sort(function (a, b) {
+		const palavrasAleatorias = palavrasJogo.sort(function (_a, _b) {
 			return Math.random() - 0.5;
 		});
 
