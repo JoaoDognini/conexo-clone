@@ -1,0 +1,3728 @@
+{
+	"jogo1": [
+		{
+			"id": 1,
+			"palavra": "Varginha",
+			"grupo": {
+				"id": 1,
+				"nome": "Ets ou relacionados"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "Bilu",
+			"grupo": {
+				"id": 1,
+				"nome": "Ets ou relacionados"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "Etevaldo",
+			"grupo": {
+				"id": 1,
+				"nome": "Ets ou relacionados"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "Rodolfo",
+			"grupo": {
+				"id": 1,
+				"nome": "Ets ou relacionados"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "Solimões",
+			"grupo": {
+				"id": 2,
+				"nome": "'Rios' do Brasil"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "Franciso",
+			"grupo": {
+				"id": 2,
+				"nome": "'Rios' do Brasil"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "Paraná",
+			"grupo": {
+				"id": 2,
+				"nome": "'Rios' do Brasil"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "Janeiro",
+			"grupo": {
+				"id": 2,
+				"nome": "'Rios' do Brasil"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "Sorocaba",
+			"grupo": {
+				"id": 3,
+				"nome": "Municípios de São Paulo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "Santos",
+			"grupo": {
+				"id": 3,
+				"nome": "Municípios de São Paulo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "Marília",
+			"grupo": {
+				"id": 3,
+				"nome": "Municípios de São Paulo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "Taubaté",
+			"grupo": {
+				"id": 3,
+				"nome": "Municípios de São Paulo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "Marrone",
+			"grupo": {
+				"id": 4,
+				"nome": "Pessoas em duplas sertanejas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "Mateus",
+			"grupo": {
+				"id": 4,
+				"nome": "Pessoas em duplas sertanejas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "Maraísa",
+			"grupo": {
+				"id": 4,
+				"nome": "Pessoas em duplas sertanejas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "Simaria",
+			"grupo": {
+				"id": 4,
+				"nome": "Pessoas em duplas sertanejas"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo2": [
+		{
+			"id": 1,
+			"palavra": "Boi",
+			"grupo": {
+				"id": 1,
+				"nome": "Animais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "Cobra",
+			"grupo": {
+				"id": 1,
+				"nome": "Animais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "Burro",
+			"grupo": {
+				"id": 1,
+				"nome": "Animais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "Gavião",
+			"grupo": {
+				"id": 1,
+				"nome": "Animais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "Bolsa",
+			"grupo": {
+				"id": 2,
+				"nome": "Para carregar coisas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "Sacola",
+			"grupo": {
+				"id": 2,
+				"nome": "Para carregar coisas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "Mochila",
+			"grupo": {
+				"id": 2,
+				"nome": "Para carregar coisas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "Pasta",
+			"grupo": {
+				"id": 2,
+				"nome": "Para carregar coisas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "Caixa",
+			"grupo": {
+				"id": 3,
+				"nome": "______ d'água"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "Pé",
+			"grupo": {
+				"id": 3,
+				"nome": "______ d'água"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "Barriga",
+			"grupo": {
+				"id": 3,
+				"nome": "______ d'água"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "Queda",
+			"grupo": {
+				"id": 3,
+				"nome": "______ d'água"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "Olho",
+			"grupo": {
+				"id": 4,
+				"nome": "Partes do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "Canela",
+			"grupo": {
+				"id": 4,
+				"nome": "Partes do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "Sacola",
+			"grupo": {
+				"id": 4,
+				"nome": "Partes do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "Cabelo",
+			"grupo": {
+				"id": 4,
+				"nome": "Partes do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo3": [
+		{
+			"id": 1,
+			"palavra": "Ré",
+			"grupo": {
+				"id": 1,
+				"nome": "Câmbio do carro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "morto",
+			"grupo": {
+				"id": 1,
+				"nome": "Câmbio do carro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "primeira",
+			"grupo": {
+				"id": 1,
+				"nome": "Câmbio do carro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "segunda",
+			"grupo": {
+				"id": 1,
+				"nome": "Câmbio do carro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "lá",
+			"grupo": {
+				"id": 2,
+				"nome": "Advérbios de lugar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "aí",
+			"grupo": {
+				"id": 2,
+				"nome": "Advérbios de lugar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "abaixo",
+			"grupo": {
+				"id": 2,
+				"nome": "Advérbios de lugar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "atrás",
+			"grupo": {
+				"id": 2,
+				"nome": "Advérbios de lugar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "sol",
+			"grupo": {
+				"id": 3,
+				"nome": "Usados para localização"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "bússola",
+			"grupo": {
+				"id": 3,
+				"nome": "Usados para localização"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "farol",
+			"grupo": {
+				"id": 3,
+				"nome": "Usados para localização"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "gps",
+			"grupo": {
+				"id": 3,
+				"nome": "Usados para localização"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "dó",
+			"grupo": {
+				"id": 4,
+				"nome": "Sinônimos de penas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "pluma",
+			"grupo": {
+				"id": 4,
+				"nome": "Sinônimos de penas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "punição",
+			"grupo": {
+				"id": 4,
+				"nome": "Sinônimos de penas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "lástima",
+			"grupo": {
+				"id": 4,
+				"nome": "Sinônimos de penas"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo4": [
+		{
+			"id": 1,
+			"palavra": "alvo",
+			"grupo": {
+				"id": 1,
+				"nome": "Sinônimos de objetivo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "meta",
+			"grupo": {
+				"id": 1,
+				"nome": "Sinônimos de objetivo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "fim",
+			"grupo": {
+				"id": 1,
+				"nome": "Sinônimos de objetivo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "propósito",
+			"grupo": {
+				"id": 1,
+				"nome": "Sinônimos de objetivo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "gol",
+			"grupo": {
+				"id": 2,
+				"nome": "Futebol"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "lateral",
+			"grupo": {
+				"id": 2,
+				"nome": "Futebol"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "escanteio",
+			"grupo": {
+				"id": 2,
+				"nome": "Futebol"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "pênalti",
+			"grupo": {
+				"id": 2,
+				"nome": "Futebol"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "flecha",
+			"grupo": {
+				"id": 3,
+				"nome": "Tiro com arco"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "arco",
+			"grupo": {
+				"id": 3,
+				"nome": "Tiro com arco"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "corda",
+			"grupo": {
+				"id": 3,
+				"nome": "Tiro com arco"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "tiro",
+			"grupo": {
+				"id": 3,
+				"nome": "Tiro com arco"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "Google",
+			"grupo": {
+				"id": 4,
+				"nome": "Empresas de tecnologia"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "Amazon",
+			"grupo": {
+				"id": 4,
+				"nome": "Empresas de tecnologia"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "Netflix",
+			"grupo": {
+				"id": 4,
+				"nome": "Empresas de tecnologia"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "Cisco",
+			"grupo": {
+				"id": 4,
+				"nome": "Empresas de tecnologia"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo5": [
+		{
+			"id": 1,
+			"palavra": "saque",
+			"grupo": {
+				"id": 1,
+				"nome": "Fundamentos do vôlei"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "bloqueio",
+			"grupo": {
+				"id": 1,
+				"nome": "Fundamentos do vôlei"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "levantamento",
+			"grupo": {
+				"id": 1,
+				"nome": "Fundamentos do vôlei"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "corte",
+			"grupo": {
+				"id": 1,
+				"nome": "Fundamentos do vôlei"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "empréstimo",
+			"grupo": {
+				"id": 2,
+				"nome": "Faz-se no banco"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "financiamento",
+			"grupo": {
+				"id": 2,
+				"nome": "Faz-se no banco"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "pagamento",
+			"grupo": {
+				"id": 2,
+				"nome": "Faz-se no banco"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "investimento",
+			"grupo": {
+				"id": 2,
+				"nome": "Faz-se no banco"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "depósito",
+			"grupo": {
+				"id": 3,
+				"nome": "Locais de armazenamento"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "despensa",
+			"grupo": {
+				"id": 3,
+				"nome": "Locais de armazenamento"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "armazém",
+			"grupo": {
+				"id": 3,
+				"nome": "Locais de armazenamento"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "almoxarifado",
+			"grupo": {
+				"id": 3,
+				"nome": "Locais de armazenamento"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "mercado",
+			"grupo": {
+				"id": 4,
+				"nome": "Tipo de comércio"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "quitanda",
+			"grupo": {
+				"id": 4,
+				"nome": "Tipo de comércio"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "bazar",
+			"grupo": {
+				"id": 4,
+				"nome": "Tipo de comércio"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "boutique",
+			"grupo": {
+				"id": 4,
+				"nome": "Tipo de comércio"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo6": [
+		{
+			"id": 1,
+			"palavra": "picar",
+			"grupo": {
+				"id": 1,
+				"nome": "Ações de animais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "ruminar",
+			"grupo": {
+				"id": 1,
+				"nome": "Ações de animais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "uivar",
+			"grupo": {
+				"id": 1,
+				"nome": "Ações de animais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "rosnar",
+			"grupo": {
+				"id": 1,
+				"nome": "Ações de animais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "nadar",
+			"grupo": {
+				"id": 2,
+				"nome": "Atividades físicas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "pular",
+			"grupo": {
+				"id": 2,
+				"nome": "Atividades físicas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "saltar",
+			"grupo": {
+				"id": 2,
+				"nome": "Atividades físicas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "caminhar",
+			"grupo": {
+				"id": 2,
+				"nome": "Atividades físicas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "cortar",
+			"grupo": {
+				"id": 3,
+				"nome": "Ações de culinária"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "fatiar",
+			"grupo": {
+				"id": 3,
+				"nome": "Ações de culinária"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "ralar",
+			"grupo": {
+				"id": 3,
+				"nome": "Ações de culinária"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "misturar",
+			"grupo": {
+				"id": 3,
+				"nome": "Ações de culinária"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "altar",
+			"grupo": {
+				"id": 4,
+				"nome": "Substantivos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "caviar",
+			"grupo": {
+				"id": 4,
+				"nome": "Substantivos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "celular",
+			"grupo": {
+				"id": 4,
+				"nome": "Substantivos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "radar",
+			"grupo": {
+				"id": 4,
+				"nome": "Substantivos"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo7": [
+		{
+			"id": 1,
+			"palavra": "vulcão",
+			"grupo": {
+				"id": 1,
+				"nome": "Relacionados a vulcão"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "erupção",
+			"grupo": {
+				"id": 1,
+				"nome": "Relacionados a vulcão"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "magma",
+			"grupo": {
+				"id": 1,
+				"nome": "Relacionados a vulcão"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "cratera",
+			"grupo": {
+				"id": 1,
+				"nome": "Relacionados a vulcão"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "cozinha",
+			"grupo": {
+				"id": 2,
+				"nome": "Tarefas domésticas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "limpa",
+			"grupo": {
+				"id": 2,
+				"nome": "Tarefas domésticas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "lava",
+			"grupo": {
+				"id": 2,
+				"nome": "Tarefas domésticas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "passa",
+			"grupo": {
+				"id": 2,
+				"nome": "Tarefas domésticas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "corredor",
+			"grupo": {
+				"id": 3,
+				"nome": "Partes da casa"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "sala",
+			"grupo": {
+				"id": 3,
+				"nome": "Partes da casa"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "quarto",
+			"grupo": {
+				"id": 3,
+				"nome": "Partes da casa"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "banheiro",
+			"grupo": {
+				"id": 3,
+				"nome": "Partes da casa"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "lutador",
+			"grupo": {
+				"id": 4,
+				"nome": "Atletas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "canoísta",
+			"grupo": {
+				"id": 4,
+				"nome": "Atletas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "triatleta",
+			"grupo": {
+				"id": 4,
+				"nome": "Atletas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "goleiro",
+			"grupo": {
+				"id": 4,
+				"nome": "Atletas"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo8": [
+		{
+			"id": 1,
+			"palavra": "cabeçacada",
+			"grupo": {
+				"id": 1,
+				"nome": "Fundamentos do futebol"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "passe",
+			"grupo": {
+				"id": 1,
+				"nome": "Fundamentos do futebol"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "chute",
+			"grupo": {
+				"id": 1,
+				"nome": "Fundamentos do futebol"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "drible",
+			"grupo": {
+				"id": 1,
+				"nome": "Fundamentos do futebol"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "domínio",
+			"grupo": {
+				"id": 2,
+				"nome": "Ter o comando"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "controle",
+			"grupo": {
+				"id": 2,
+				"nome": "Ter o comando"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "soberania",
+			"grupo": {
+				"id": 2,
+				"nome": "Ter o comando"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "posse",
+			"grupo": {
+				"id": 2,
+				"nome": "Ter o comando"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "condução",
+			"grupo": {
+				"id": 3,
+				"nome": "Meios de transporte"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "coletivo",
+			"grupo": {
+				"id": 3,
+				"nome": "Meios de transporte"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "lotação",
+			"grupo": {
+				"id": 3,
+				"nome": "Meios de transporte"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "comboio",
+			"grupo": {
+				"id": 3,
+				"nome": "Meios de transporte"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "recepção",
+			"grupo": {
+				"id": 4,
+				"nome": "Partes de um hotel"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "quarto",
+			"grupo": {
+				"id": 4,
+				"nome": "Partes de um hotel"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "corredor",
+			"grupo": {
+				"id": 4,
+				"nome": "Partes de um hotel"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "saguão",
+			"grupo": {
+				"id": 4,
+				"nome": "Partes de um hotel"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo9": [
+		{
+			"id": 1,
+			"palavra": "banco",
+			"grupo": {
+				"id": 1,
+				"nome": "Objetos de sentar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "pufe",
+			"grupo": {
+				"id": 1,
+				"nome": "Objetos de sentar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "sofá",
+			"grupo": {
+				"id": 1,
+				"nome": "Objetos de sentar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "cadeira",
+			"grupo": {
+				"id": 1,
+				"nome": "Objetos de sentar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "acorde",
+			"grupo": {
+				"id": 2,
+				"nome": "Música"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "harmonia",
+			"grupo": {
+				"id": 2,
+				"nome": "Música"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "ritmo",
+			"grupo": {
+				"id": 2,
+				"nome": "Música"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "melodia",
+			"grupo": {
+				"id": 2,
+				"nome": "Música"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "histórico",
+			"grupo": {
+				"id": 3,
+				"nome": "Coisas de escola"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "boletim",
+			"grupo": {
+				"id": 3,
+				"nome": "Coisas de escola"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "prova",
+			"grupo": {
+				"id": 3,
+				"nome": "Coisas de escola"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "trabalho",
+			"grupo": {
+				"id": 3,
+				"nome": "Coisas de escola"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "nota",
+			"grupo": {
+				"id": 4,
+				"nome": "Formas de pagamento"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "moeda",
+			"grupo": {
+				"id": 4,
+				"nome": "Formas de pagamento"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "cartão",
+			"grupo": {
+				"id": 4,
+				"nome": "Formas de pagamento"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "pix",
+			"grupo": {
+				"id": 4,
+				"nome": "Formas de pagamento"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo10": [
+		{
+			"id": 1,
+			"palavra": "rim",
+			"grupo": {
+				"id": 1,
+				"nome": "Órgãos do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "fígado",
+			"grupo": {
+				"id": 1,
+				"nome": "Órgãos do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "baço",
+			"grupo": {
+				"id": 1,
+				"nome": "Órgãos do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "apêndice",
+			"grupo": {
+				"id": 1,
+				"nome": "Órgãos do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "relicário",
+			"grupo": {
+				"id": 2,
+				"nome": "Coisas de igreja"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "órgão",
+			"grupo": {
+				"id": 2,
+				"nome": "Coisas de igreja"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "candelabro",
+			"grupo": {
+				"id": 2,
+				"nome": "Coisas de igreja"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "castiçal",
+			"grupo": {
+				"id": 2,
+				"nome": "Coisas de igreja"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "apito",
+			"grupo": {
+				"id": 3,
+				"nome": "Pode-se soprar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "resposta",
+			"grupo": {
+				"id": 3,
+				"nome": "Pode-se soprar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "vela",
+			"grupo": {
+				"id": 3,
+				"nome": "Pode-se soprar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "bexiga",
+			"grupo": {
+				"id": 3,
+				"nome": "Pode-se soprar"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "pergunta",
+			"grupo": {
+				"id": 4,
+				"nome": "Tarefas escolares"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "problema",
+			"grupo": {
+				"id": 4,
+				"nome": "Tarefas escolares"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "questão",
+			"grupo": {
+				"id": 4,
+				"nome": "Tarefas escolares"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "redação",
+			"grupo": {
+				"id": 4,
+				"nome": "Tarefas escolares"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo11": [
+		{
+			"id": 1,
+			"palavra": "chocolate",
+			"grupo": {
+				"id": 1,
+				"nome": "Sabores de sorvete"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "baunilha",
+			"grupo": {
+				"id": 1,
+				"nome": "Sabores de sorvete"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "morango",
+			"grupo": {
+				"id": 1,
+				"nome": "Sabores de sorvete"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "creme",
+			"grupo": {
+				"id": 1,
+				"nome": "Sabores de sorvete"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "flocos",
+			"grupo": {
+				"id": 2,
+				"nome": "___ de Neve"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "boneco",
+			"grupo": {
+				"id": 2,
+				"nome": "___ de Neve"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "bola",
+			"grupo": {
+				"id": 2,
+				"nome": "___ de Neve"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "branca",
+			"grupo": {
+				"id": 2,
+				"nome": "___ de Neve"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "violeta",
+			"grupo": {
+				"id": 3,
+				"nome": "Cores"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "rosa",
+			"grupo": {
+				"id": 3,
+				"nome": "Cores"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "laranja",
+			"grupo": {
+				"id": 3,
+				"nome": "Cores"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "vermelha",
+			"grupo": {
+				"id": 3,
+				"nome": "Cores"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "margarida",
+			"grupo": {
+				"id": 4,
+				"nome": "Flores"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "carmélia",
+			"grupo": {
+				"id": 4,
+				"nome": "Flores"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "hortência",
+			"grupo": {
+				"id": 4,
+				"nome": "Flores"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "jasmim",
+			"grupo": {
+				"id": 4,
+				"nome": "Flores"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo12": [
+		{
+			"id": 1,
+			"palavra": "trena",
+			"grupo": {
+				"id": 1,
+				"nome": "Objetos de medição"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "balança",
+			"grupo": {
+				"id": 1,
+				"nome": "Objetos de medição"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "cronômetro",
+			"grupo": {
+				"id": 1,
+				"nome": "Objetos de medição"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "termômetro",
+			"grupo": {
+				"id": 1,
+				"nome": "Objetos de medição"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "superior",
+			"grupo": {
+				"id": 2,
+				"nome": "Ensino ___"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "fundamental",
+			"grupo": {
+				"id": 2,
+				"nome": "Ensino ___"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "médio",
+			"grupo": {
+				"id": 2,
+				"nome": "Ensino ___"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "técnico",
+			"grupo": {
+				"id": 2,
+				"nome": "Ensino ___"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "infantil",
+			"grupo": {
+				"id": 3,
+				"nome": "Tipos de livro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "ficção",
+			"grupo": {
+				"id": 3,
+				"nome": "Tipos de livro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "biografia",
+			"grupo": {
+				"id": 3,
+				"nome": "Tipos de livro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "didático",
+			"grupo": {
+				"id": 3,
+				"nome": "Tipos de livro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "distância",
+			"grupo": {
+				"id": 4,
+				"nome": "Coisas que podemos medir"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "peso",
+			"grupo": {
+				"id": 4,
+				"nome": "Coisas que podemos medir"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "tempo",
+			"grupo": {
+				"id": 4,
+				"nome": "Coisas que podemos medir"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "temperatura",
+			"grupo": {
+				"id": 4,
+				"nome": "Coisas que podemos medir"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo13": [
+		{
+			"id": 1,
+			"palavra": "surfe",
+			"grupo": {
+				"id": 1,
+				"nome": "Esportes aquáticos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "remo",
+			"grupo": {
+				"id": 1,
+				"nome": "Esportes aquáticos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "natação",
+			"grupo": {
+				"id": 1,
+				"nome": "Esportes aquáticos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "canoagem",
+			"grupo": {
+				"id": 1,
+				"nome": "Esportes aquáticos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "fósforo",
+			"grupo": {
+				"id": 2,
+				"nome": "Fogo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "isqueiro",
+			"grupo": {
+				"id": 2,
+				"nome": "Fogo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "vela",
+			"grupo": {
+				"id": 2,
+				"nome": "Fogo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "lampião",
+			"grupo": {
+				"id": 2,
+				"nome": "Fogo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "ferro",
+			"grupo": {
+				"id": 3,
+				"nome": "Elementos químicos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "oxigênio",
+			"grupo": {
+				"id": 3,
+				"nome": "Elementos químicos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "carbono",
+			"grupo": {
+				"id": 3,
+				"nome": "Elementos químicos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "flúor",
+			"grupo": {
+				"id": 3,
+				"nome": "Elementos químicos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "cimento",
+			"grupo": {
+				"id": 4,
+				"nome": "Materiais de construção"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "tijolo",
+			"grupo": {
+				"id": 4,
+				"nome": "Materiais de construção"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "areia",
+			"grupo": {
+				"id": 4,
+				"nome": "Materiais de construção"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "pedra",
+			"grupo": {
+				"id": 4,
+				"nome": "Materiais de construção"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo14": [
+		{
+			"id": 1,
+			"palavra": "barriga",
+			"grupo": {
+				"id": 1,
+				"nome": "Partes do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "cabeça",
+			"grupo": {
+				"id": 1,
+				"nome": "Partes do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "braço",
+			"grupo": {
+				"id": 1,
+				"nome": "Partes do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "ombro",
+			"grupo": {
+				"id": 1,
+				"nome": "Partes do corpo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "chiquinha",
+			"grupo": {
+				"id": 2,
+				"nome": "Personagens de Chaves"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "quico",
+			"grupo": {
+				"id": 2,
+				"nome": "Personagens de Chaves"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "florinda",
+			"grupo": {
+				"id": 2,
+				"nome": "Personagens de Chaves"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "girafales",
+			"grupo": {
+				"id": 2,
+				"nome": "Personagens de Chaves"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "costa",
+			"grupo": {
+				"id": 3,
+				"nome": "Relacionados ao litoral"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "orla",
+			"grupo": {
+				"id": 3,
+				"nome": "Relacionados ao litoral"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "praia",
+			"grupo": {
+				"id": 3,
+				"nome": "Relacionados ao litoral"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "baía",
+			"grupo": {
+				"id": 3,
+				"nome": "Relacionados ao litoral"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "alagoas",
+			"grupo": {
+				"id": 4,
+				"nome": "Estados do Nordeste"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "pernambuco",
+			"grupo": {
+				"id": 4,
+				"nome": "Estados do Nordeste"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "ceará",
+			"grupo": {
+				"id": 4,
+				"nome": "Estados do Nordeste"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "sergipe",
+			"grupo": {
+				"id": 4,
+				"nome": "Estados do Nordeste"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo15": [
+		{
+			"id": 1,
+			"palavra": "mágico",
+			"grupo": {
+				"id": 1,
+				"nome": "Artistas de circo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "malabarista",
+			"grupo": {
+				"id": 1,
+				"nome": "Artistas de circo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "domador",
+			"grupo": {
+				"id": 1,
+				"nome": "Artistas de circo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "engolidor",
+			"grupo": {
+				"id": 1,
+				"nome": "Artistas de circo"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "híbrido",
+			"grupo": {
+				"id": 2,
+				"nome": "Tipos de carro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "conversível",
+			"grupo": {
+				"id": 2,
+				"nome": "Tipos de carro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "esportivo",
+			"grupo": {
+				"id": 2,
+				"nome": "Tipos de carro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "perua",
+			"grupo": {
+				"id": 2,
+				"nome": "Tipos de carro"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "adaga",
+			"grupo": {
+				"id": 3,
+				"nome": "Armas medievais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "maça",
+			"grupo": {
+				"id": 3,
+				"nome": "Armas medievais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "escudo",
+			"grupo": {
+				"id": 3,
+				"nome": "Armas medievais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "lança",
+			"grupo": {
+				"id": 3,
+				"nome": "Armas medievais"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "palhaço",
+			"grupo": {
+				"id": 4,
+				"nome": "Peixe-___"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "voador",
+			"grupo": {
+				"id": 4,
+				"nome": "Peixe-___"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "elétrico",
+			"grupo": {
+				"id": 4,
+				"nome": "Peixe-___"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "espada",
+			"grupo": {
+				"id": 4,
+				"nome": "Peixe-___"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo16": [
+		{
+			"id": 1,
+			"palavra": "buraco",
+			"grupo": {
+				"id": 1,
+				"nome": "Jogos de cartas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "pife",
+			"grupo": {
+				"id": 1,
+				"nome": "Jogos de cartas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "truco",
+			"grupo": {
+				"id": 1,
+				"nome": "Jogos de cartas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "poker",
+			"grupo": {
+				"id": 1,
+				"nome": "Jogos de cartas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "paus",
+			"grupo": {
+				"id": 2,
+				"nome": "Naipes de cartas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "copas",
+			"grupo": {
+				"id": 2,
+				"nome": "Naipes de cartas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "espadas",
+			"grupo": {
+				"id": 2,
+				"nome": "Naipes de cartas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "ouros",
+			"grupo": {
+				"id": 2,
+				"nome": "Naipes de cartas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "zap",
+			"grupo": {
+				"id": 3,
+				"nome": "Onomatopéias"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "tic-tac",
+			"grupo": {
+				"id": 3,
+				"nome": "Onomatopéias"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "pocotó",
+			"grupo": {
+				"id": 3,
+				"nome": "Onomatopéias"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "cocoricó",
+			"grupo": {
+				"id": 3,
+				"nome": "Onomatopéias"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "coringa",
+			"grupo": {
+				"id": 4,
+				"nome": "Vilões do Batman"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "charada",
+			"grupo": {
+				"id": 4,
+				"nome": "Vilões do Batman"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "crocodilo",
+			"grupo": {
+				"id": 4,
+				"nome": "Vilões do Batman"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "pinguim",
+			"grupo": {
+				"id": 4,
+				"nome": "Vilões do Batman"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo17": [
+		{
+			"id": 1,
+			"palavra": "água",
+			"grupo": {
+				"id": 1,
+				"nome": "Os 4 elementos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "terra",
+			"grupo": {
+				"id": 1,
+				"nome": "Os 4 elementos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "fogo",
+			"grupo": {
+				"id": 1,
+				"nome": "Os 4 elementos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "ar",
+			"grupo": {
+				"id": 1,
+				"nome": "Os 4 elementos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "nadar",
+			"grupo": {
+				"id": 2,
+				"nome": "Verbos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "cozinhar",
+			"grupo": {
+				"id": 2,
+				"nome": "Verbos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "voar",
+			"grupo": {
+				"id": 2,
+				"nome": "Verbos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "mergulhar",
+			"grupo": {
+				"id": 2,
+				"nome": "Verbos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "cachoeira",
+			"grupo": {
+				"id": 3,
+				"nome": "Ambientes aquáticos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "rio",
+			"grupo": {
+				"id": 3,
+				"nome": "Ambientes aquáticos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "mar",
+			"grupo": {
+				"id": 3,
+				"nome": "Ambientes aquáticos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "lago",
+			"grupo": {
+				"id": 3,
+				"nome": "Ambientes aquáticos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "peixe",
+			"grupo": {
+				"id": 4,
+				"nome": "Tipos de carne"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "frango",
+			"grupo": {
+				"id": 4,
+				"nome": "Tipos de carne"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "boi",
+			"grupo": {
+				"id": 4,
+				"nome": "Tipos de carne"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "cordeiro",
+			"grupo": {
+				"id": 4,
+				"nome": "Tipos de carne"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo18": [
+		{
+			"id": 1,
+			"palavra": "centeio",
+			"grupo": {
+				"id": 1,
+				"nome": "Tipos de pães"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "7 grãos",
+			"grupo": {
+				"id": 1,
+				"nome": "Tipos de pães"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "italiano",
+			"grupo": {
+				"id": 1,
+				"nome": "Tipos de pães"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "francês",
+			"grupo": {
+				"id": 1,
+				"nome": "Tipos de pães"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "alemão",
+			"grupo": {
+				"id": 2,
+				"nome": "Nacionalidades Europeias"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "austríaco",
+			"grupo": {
+				"id": 2,
+				"nome": "Nacionalidades Europeias"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "português",
+			"grupo": {
+				"id": 2,
+				"nome": "Nacionalidades Europeias"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "holandês",
+			"grupo": {
+				"id": 2,
+				"nome": "Nacionalidades Europeias"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "integral",
+			"grupo": {
+				"id": 3,
+				"nome": "Jornadas de Trabalho"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "parcial",
+			"grupo": {
+				"id": 3,
+				"nome": "Jornadas de Trabalho"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "noturna",
+			"grupo": {
+				"id": 3,
+				"nome": "Jornadas de Trabalho"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "reduzida",
+			"grupo": {
+				"id": 3,
+				"nome": "Jornadas de Trabalho"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "siena",
+			"grupo": {
+				"id": 4,
+				"nome": "Nomes de carros"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "celta",
+			"grupo": {
+				"id": 4,
+				"nome": "Nomes de carros"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "fusca",
+			"grupo": {
+				"id": 4,
+				"nome": "Nomes de carros"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "ka",
+			"grupo": {
+				"id": 4,
+				"nome": "Nomes de carros"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo19": [
+		{
+			"id": 1,
+			"palavra": "livro",
+			"grupo": {
+				"id": 1,
+				"nome": "Mídias impressas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "revista",
+			"grupo": {
+				"id": 1,
+				"nome": "Mídias impressas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "quadrinhos",
+			"grupo": {
+				"id": 1,
+				"nome": "Mídias impressas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "jornal",
+			"grupo": {
+				"id": 1,
+				"nome": "Mídias impressas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "letra",
+			"grupo": {
+				"id": 2,
+				"nome": "Composição de música"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "melodia",
+			"grupo": {
+				"id": 2,
+				"nome": "Composição de música"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "instrumento",
+			"grupo": {
+				"id": 2,
+				"nome": "Composição de música"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "ritmo",
+			"grupo": {
+				"id": 2,
+				"nome": "Composição de música"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "palavra",
+			"grupo": {
+				"id": 3,
+				"nome": "Partes de um texto"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "sílaba",
+			"grupo": {
+				"id": 3,
+				"nome": "Partes de um texto"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "frase",
+			"grupo": {
+				"id": 3,
+				"nome": "Partes de um texto"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "parágrafo",
+			"grupo": {
+				"id": 3,
+				"nome": "Partes de um texto"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "foto",
+			"grupo": {
+				"id": 4,
+				"nome": "Podem ser enviados pelo Whatsapp"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "vídeo",
+			"grupo": {
+				"id": 4,
+				"nome": "Podem ser enviados pelo Whatsapp"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "áudio",
+			"grupo": {
+				"id": 4,
+				"nome": "Podem ser enviados pelo Whatsapp"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "contato",
+			"grupo": {
+				"id": 4,
+				"nome": "Podem ser enviados pelo Whatsapp"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo20": [
+		{
+			"id": 1,
+			"palavra": "gratidão",
+			"grupo": {
+				"id": 1,
+				"nome": "Salas de reunião da Zeus"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "sabedoria",
+			"grupo": {
+				"id": 1,
+				"nome": "Salas de reunião da Zeus"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "paraíso",
+			"grupo": {
+				"id": 1,
+				"nome": "Salas de reunião da Zeus"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "vida",
+			"grupo": {
+				"id": 1,
+				"nome": "Salas de reunião da Zeus"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "dia",
+			"grupo": {
+				"id": 2,
+				"nome": "Palavras do Grito de Guerra"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "hora",
+			"grupo": {
+				"id": 2,
+				"nome": "Palavras do Grito de Guerra"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "vendas",
+			"grupo": {
+				"id": 2,
+				"nome": "Palavras do Grito de Guerra"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "melhora",
+			"grupo": {
+				"id": 2,
+				"nome": "Palavras do Grito de Guerra"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "extintor",
+			"grupo": {
+				"id": 3,
+				"nome": "A Zeus vende"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "mangueira",
+			"grupo": {
+				"id": 3,
+				"nome": "A Zeus vende"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "pcf",
+			"grupo": {
+				"id": 3,
+				"nome": "A Zeus vende"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "sprinkler",
+			"grupo": {
+				"id": 3,
+				"nome": "A Zeus vende"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "marketing",
+			"grupo": {
+				"id": 4,
+				"nome": "Setores da Zeus"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "RH",
+			"grupo": {
+				"id": 4,
+				"nome": "Setores da Zeus"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "logística",
+			"grupo": {
+				"id": 4,
+				"nome": "Setores da Zeus"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "SDR",
+			"grupo": {
+				"id": 4,
+				"nome": "Setores da Zeus"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo21": [
+		{
+			"id": 1,
+			"palavra": "cruzeiro",
+			"grupo": {
+				"id": 1,
+				"nome": "Times de MG"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "américa",
+			"grupo": {
+				"id": 1,
+				"nome": "Times de MG"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "ipatinga",
+			"grupo": {
+				"id": 1,
+				"nome": "Times de MG"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "atlético",
+			"grupo": {
+				"id": 1,
+				"nome": "Times de MG"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "retumbante",
+			"grupo": {
+				"id": 2,
+				"nome": "Palavras do Hino Nacional"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "idolatrada",
+			"grupo": {
+				"id": 2,
+				"nome": "Palavras do Hino Nacional"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "garrida",
+			"grupo": {
+				"id": 2,
+				"nome": "Palavras do Hino Nacional"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "braço",
+			"grupo": {
+				"id": 2,
+				"nome": "Palavras do Hino Nacional"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "tartaruga",
+			"grupo": {
+				"id": 3,
+				"nome": "Animais marinhos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "estrela",
+			"grupo": {
+				"id": 3,
+				"nome": "Animais marinhos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "polvo",
+			"grupo": {
+				"id": 3,
+				"nome": "Animais marinhos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "lula",
+			"grupo": {
+				"id": 3,
+				"nome": "Animais marinhos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "cavalo",
+			"grupo": {
+				"id": 4,
+				"nome": "Aparelhos de Ginástica Olímpica"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "mesa",
+			"grupo": {
+				"id": 4,
+				"nome": "Aparelhos de Ginástica Olímpica"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "trave",
+			"grupo": {
+				"id": 4,
+				"nome": "Aparelhos de Ginástica Olímpica"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "argolas",
+			"grupo": {
+				"id": 4,
+				"nome": "Aparelhos de Ginástica Olímpica"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo22": [
+		{
+			"id": 1,
+			"palavra": "televisão",
+			"grupo": {
+				"id": 1,
+				"nome": "Comunicação em massa"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "jornal",
+			"grupo": {
+				"id": 1,
+				"nome": "Comunicação em massa"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "revista",
+			"grupo": {
+				"id": 1,
+				"nome": "Comunicação em massa"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "internet",
+			"grupo": {
+				"id": 1,
+				"nome": "Comunicação em massa"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "parque",
+			"grupo": {
+				"id": 2,
+				"nome": "Locais de preservação"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "reserva",
+			"grupo": {
+				"id": 2,
+				"nome": "Locais de preservação"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "santuário",
+			"grupo": {
+				"id": 2,
+				"nome": "Locais de preservação"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "refúgio",
+			"grupo": {
+				"id": 2,
+				"nome": "Locais de preservação"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "rádio",
+			"grupo": {
+				"id": 3,
+				"nome": "Elementos químicos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "índio",
+			"grupo": {
+				"id": 3,
+				"nome": "Elementos químicos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "hélio",
+			"grupo": {
+				"id": 3,
+				"nome": "Elementos químicos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "gálio",
+			"grupo": {
+				"id": 3,
+				"nome": "Elementos químicos"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "aldeia",
+			"grupo": {
+				"id": 4,
+				"nome": "Indígenas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "pajé",
+			"grupo": {
+				"id": 4,
+				"nome": "Indígenas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "território",
+			"grupo": {
+				"id": 4,
+				"nome": "Indígenas"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "povo",
+			"grupo": {
+				"id": 4,
+				"nome": "Indígenas"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	],
+	"jogo23": [
+		{
+			"id": 1,
+			"palavra": "luz",
+			"grupo": {
+				"id": 1,
+				"nome": "Falas de um diretor de cinema"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 2,
+			"palavra": "câmera",
+			"grupo": {
+				"id": 1,
+				"nome": "Falas de um diretor de cinema"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 3,
+			"palavra": "ação",
+			"grupo": {
+				"id": 1,
+				"nome": "Falas de um diretor de cinema"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 4,
+			"palavra": "corta",
+			"grupo": {
+				"id": 1,
+				"nome": "Falas de um diretor de cinema"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 5,
+			"palavra": "andar",
+			"grupo": {
+				"id": 2,
+				"nome": "Formas de locomoção"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 6,
+			"palavra": "navegar",
+			"grupo": {
+				"id": 2,
+				"nome": "Formas de locomoção"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 7,
+			"palavra": "pilotar",
+			"grupo": {
+				"id": 2,
+				"nome": "Formas de locomoção"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 8,
+			"palavra": "pedalar",
+			"grupo": {
+				"id": 2,
+				"nome": "Formas de locomoção"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 9,
+			"palavra": "dirigir",
+			"grupo": {
+				"id": 3,
+				"nome": "Ações na produção de filmes"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 10,
+			"palavra": "gravar",
+			"grupo": {
+				"id": 3,
+				"nome": "Ações na produção de filmes"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 11,
+			"palavra": "editar",
+			"grupo": {
+				"id": 3,
+				"nome": "Ações na produção de filmes"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 12,
+			"palavra": "atuar",
+			"grupo": {
+				"id": 3,
+				"nome": "Ações na produção de filmes"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 13,
+			"palavra": "cobertura",
+			"grupo": {
+				"id": 4,
+				"nome": "Relacionadas a prédio"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 14,
+			"palavra": "portaria",
+			"grupo": {
+				"id": 4,
+				"nome": "Relacionadas a prédio"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 15,
+			"palavra": "elevador",
+			"grupo": {
+				"id": 4,
+				"nome": "Relacionadas a prédio"
+			},
+			"selecionado": false,
+			"correto": false
+		},
+		{
+			"id": 16,
+			"palavra": "escada",
+			"grupo": {
+				"id": 4,
+				"nome": "Relacionadas a prédio"
+			},
+			"selecionado": false,
+			"correto": false
+		}
+	]
+}

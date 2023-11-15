@@ -1,0 +1,15 @@
+.jogos {
+	display: flex;
+	width: 400px;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 10px;
+}
+
+.jogos_botao {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 3rem;
+	height: 3rem;
+}

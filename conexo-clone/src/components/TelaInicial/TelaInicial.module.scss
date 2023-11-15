@@ -1,0 +1,29 @@
+.tela_inicial {
+	display: flex;
+	flex-direction: column;
+	width: 315px;
+	align-items: center;
+	gap: 20px;
+
+	h2 {
+		text-transform: uppercase;
+		font-weight: 800;
+	}
+
+	p {
+		text-align: center;
+		font-weight: 600;
+	}
+
+	button {
+		padding: 0;
+		margin: 0;
+		text-align: center;
+		width: 4rem;
+		height: 4rem;
+	}
+
+	img {
+		width: 100%;
+	}
+}

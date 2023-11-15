@@ -1,0 +1,13 @@
+.jogo_completo {
+	display: flex;
+	flex-direction: column;
+	background-color: #1e293b;
+	text-align: center;
+	padding: 1.5rem;
+	gap: 10px;
+	border-radius: 5px;
+
+	h1, p {
+		font-size: 16px;
+	}
+}

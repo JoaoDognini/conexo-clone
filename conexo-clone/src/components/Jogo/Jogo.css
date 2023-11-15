@@ -1,0 +1,58 @@
+.jogo {
+	display: flex;
+	flex-direction: column;
+	max-width: 500px;
+	align-items: center;
+}
+
+.topo {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	margin-bottom: 1rem;
+}
+
+.tentativas {
+	padding: 0.5rem;
+}
+
+.palavras {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+.palavra_wrapper {
+	padding: 0.25rem;
+	width: 25%;
+	height: 90px;
+}
+
+.palavra {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	background-color: #1e293b;
+	height: 100%;
+	width: 100%;
+	cursor: pointer;
+	border-radius: 5px;
+	text-transform: uppercase;
+}
+
+.selecionado {
+	background-color: #009afe;
+}
+
+.correto {
+	background-color: #11bb1a;
+}
+
+.palavra:hover {
+	opacity: 0.7;
+}
+
+.chute {
+	align-self: flex-start;
+}
