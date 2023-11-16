@@ -1,0 +1,22 @@
+.palavra_wrapper {
+	padding: 0.25rem;
+	width: 25%;
+	height: 90px;
+}
+
+.palavra {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	background-color: #1e293b;
+	height: 100%;
+	width: 100%;
+	cursor: pointer;
+	border-radius: 5px;
+	text-transform: uppercase;
+}
+
+.selecionado {
+	background-color: #009afe;
+}

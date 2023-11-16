@@ -52,7 +52,7 @@
 		},
 		{
 			"id": 6,
-			"palavra": "Franciso",
+			"palavra": "Francisco",
 			"grupo": {
 				"id": 2,
 				"nome": "'Rios' do Brasil"
@@ -1136,7 +1136,7 @@
 	"jogo8": [
 		{
 			"id": 1,
-			"palavra": "cabeçacada",
+			"palavra": "cabeçada",
 			"grupo": {
 				"id": 1,
 				"nome": "Fundamentos do futebol"

@@ -1,0 +1,33 @@
+.jogo {
+	display: flex;
+	flex-direction: column;
+	max-width: 500px;
+	align-items: center;
+}
+
+.palavras {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+.chute {
+	align-self: flex-start;
+}
+
+.tentativas {
+	padding: 0.5rem;
+}
+
+.correto {
+	background-color: #11bb1a;
+}
+
+.palavra:hover {
+	opacity: 0.7;
+}
+
+img {
+	margin-top: 100px;
+	width: 75%
+}

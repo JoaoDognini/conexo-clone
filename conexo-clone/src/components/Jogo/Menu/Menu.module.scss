@@ -1,0 +1,22 @@
+.topo {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	margin-bottom: 1rem;
+	align-items: center;
+}
+
+.botao_menu {
+	height: 32px;
+	width: 32px;
+}
+
+.botao_voltar:hover {
+	background-color: grey;
+	border-radius: 16px;
+}
+
+.botao_ajuda:hover {
+	background-color: grey;
+	border-radius: 16px;
+}

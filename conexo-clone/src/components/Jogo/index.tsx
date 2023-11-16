@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { useEffect, useState } from 'react'
 import palavras from '../jogos.json'
-import './Jogo.css'
+import style from './Jogo.module.scss'
 import { Palavra } from '../interfaces/palavra';
 import GrupoCorreto from './GrupoCorreto';
 import Menu from './Menu';
@@ -10,11 +10,19 @@ import JogoCompleto from './JogoCompleto';
 import { useParams } from 'react-router-dom';
 import { Grupo } from '../interfaces/grupo';
 import { TipoJogo } from '../types/tipo-jogo';
+import certo from '../../assets/certo.mp3';
+import errado from '../../assets/errado.mp3';
+import jogoCompleto from '../../assets/gameGG.mp3';
+import useSound from 'use-sound';
+// import logoZeus from '../../assets/Zeus-Branco.png';
 
 export default function Jogo() {
 	const { jogo } = useParams();
 	const palavrasJogo = palavras[jogo as TipoJogo]
 	const [chute, setChute] = useState<Palavra[]>([]);
+	const [somAcerto] = useSound(certo);
+	const [somErro] = useSound(errado);
+	const [somJogoCompleto] = useSound(jogoCompleto);
 
 	const [tentativas, setTentativas] = useState(() => {
 		const tentativasFormatado = localStorage.getItem(`tentativas-${jogo}`)
@@ -65,12 +73,12 @@ export default function Jogo() {
 			if (mesmoGrupo(chute)) {
 				const novasPalavras = deletarMesmoGrupo(palavrasEmJogo, chute[0].grupo)
 				const novaLista = chute.map(obj => { return { ...obj, correto: true } });
-
+				somAcerto();
 				setGrupoCorreto(grupoAnterior => [...grupoAnterior, novaLista]);
 				setPalavrasEmJogo(novasPalavras);
 			} else {
 				const palavras = palavrasEmJogo.map(palavra => { return { ...palavra, selecionado: false } })
-
+				somErro()
 				setPalavrasEmJogo(palavras)
 			}
 
@@ -78,19 +86,21 @@ export default function Jogo() {
 			setTentativas(novaTentativa)
 			setChute([]);
 		}
-	}, [chute, grupoCorreto, palavrasEmJogo, tentativas])
+
+		if (!palavrasEmJogo.length) somJogoCompleto();
+	}, [chute, grupoCorreto, palavrasEmJogo, tentativas, somAcerto, somErro, somJogoCompleto])
 
 	return (
-		<div className='jogo'>
+		<div className={style.jogo}>
 			<Menu />
 
 			{palavrasEmJogo.length === 0 && <JogoCompleto tentativas={tentativas} />}
 
-			<div className='chute'>
+			<div className={style.chute}>
 				Tentativas: {tentativas}
 			</div>
 
-			<div className='palavras'>
+			<div className={style.palavras}>
 				{grupoCorreto.map((grupo, index) =>
 					<GrupoCorreto key={index} grupoCorreto={grupo}></GrupoCorreto>
 				)}
@@ -98,6 +108,7 @@ export default function Jogo() {
 					<PalavrasEmJogo key={palavra.id} palavra={palavra} setChute={setChute} chute={chute} />
 				)}
 			</div>
+			{/* <img src={logoZeus} /> */}
 		</div>
 	)
 }
