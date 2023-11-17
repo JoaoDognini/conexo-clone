@@ -18,4 +18,15 @@
 	img {
 		width: 100%;
 	}
+
+	.limpar_cache {
+		display: flex;
+		align-items: center;
+		position: relative;
+	}
+
+	.icone {
+		position: absolute;
+		right: -30px;
+	}
 }

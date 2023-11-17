@@ -10,21 +10,21 @@ interface AlertDialogProps {
 export default function AlertDialog({ jogos }: AlertDialogProps) {
 	const [open, setOpen] = useState(false);
 
-	const handleClickOpen = () => {
+	const abrePopUp = () => {
 		setOpen(true);
 	};
 
-	const handleClose = () => {
+	const fechaPopUp = () => {
 		setOpen(false);
 	};
 
 	return (
 		<>
-			<button onClick={handleClickOpen}>
+			<button onClick={abrePopUp}>
 				Jogar
 			</button>
 			<Dialog
-				onClose={handleClose}
+				onClose={fechaPopUp}
 				open={open}
 			>
 				<DialogContent sx={{ backgroundColor: "#0f172a" }}>

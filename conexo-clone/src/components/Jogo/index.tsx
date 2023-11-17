@@ -60,6 +60,13 @@ export default function Jogo() {
 	}
 
 	useEffect(() => {
+		if (!localStorage.length) {
+			const palavras = palavrasEmJogo.map(palavra => { return { ...palavra, selecionado: false } })
+			setPalavrasEmJogo(palavras)
+		}
+	}, [palavrasEmJogo])
+
+	useEffect(() => {
 		const grupoCorretoFormatado = JSON.stringify(grupoCorreto);
 		localStorage.setItem(`grupoCorreto-${jogo}`, grupoCorretoFormatado);
 		const palavrasEmJogoFormatado = JSON.stringify(palavrasEmJogo);
