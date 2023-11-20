@@ -3,21 +3,38 @@
 	flex-direction: column;
 	width: 315px;
 	align-items: center;
+	margin-top: 70px;
 	gap: 20px;
 
-	h2 {
-		text-transform: uppercase;
-		font-weight: 800;
+	.tela_inicial_logo_textos {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+
+		.img_logo {
+			width: 100%;
+		}
+
+		.textos {
+			display: flex;
+			align-items: center;
+			flex-direction: column;
+			justify-content: center;
+
+			h2 {
+				text-transform: uppercase;
+				font-weight: 800;
+			}
+
+			p {
+				text-align: center;
+				font-weight: 600;
+			}
+		}
 	}
 
-	p {
-		text-align: center;
-		font-weight: 600;
-	}
 
-	img {
-		width: 100%;
-	}
 
 	.limpar_cache {
 		display: flex;
@@ -29,4 +46,27 @@
 		position: absolute;
 		right: -30px;
 	}
+}
+
+@media screen and (max-height: 620px) {
+	.tela_inicial {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 515px;
+		gap: 20px;
+		margin-top: 30px;
+
+		.tela_inicial_logo_textos {
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			align-items: center;
+
+			.img_logo {
+				width: 50%;
+			}
+		}
+	}
+
 }

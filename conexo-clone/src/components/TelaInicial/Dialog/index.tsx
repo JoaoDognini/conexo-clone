@@ -3,11 +3,11 @@ import Dialog from '@mui/material/Dialog';
 import DialogContent from '@mui/material/DialogContent';
 import ListaDeJogos from './ListaDeJogos';
 
-interface AlertDialogProps {
+interface PopUpJogosProps {
 	jogos: string[];
 }
 
-export default function AlertDialog({ jogos }: AlertDialogProps) {
+export default function PopUpJogos({ jogos }: PopUpJogosProps) {
 	const [open, setOpen] = useState(false);
 
 	const abrePopUp = () => {

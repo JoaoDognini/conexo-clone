@@ -14,12 +14,13 @@ import certo from '../../assets/certo.mp3';
 import errado from '../../assets/errado.mp3';
 import jogoCompleto from '../../assets/gameGG.mp3';
 import useSound from 'use-sound';
-// import logoZeus from '../../assets/Zeus-Branco.png';
+import iconeErrado from '../../assets/Icon-Wrong.png';
 
 export default function Jogo() {
 	const { jogo } = useParams();
 	const palavrasJogo = palavras[jogo as TipoJogo]
 	const [chute, setChute] = useState<Palavra[]>([]);
+	const [grupoErrado, setGrupoErrado] = useState(false);
 	const [somAcerto] = useSound(certo);
 	const [somErro] = useSound(errado);
 	const [somJogoCompleto] = useSound(jogoCompleto);
@@ -73,7 +74,17 @@ export default function Jogo() {
 		localStorage.setItem(`palavrasEmJogo-${jogo}`, palavrasEmJogoFormatado);
 		const tentativasFormatado = JSON.stringify(tentativas);
 		localStorage.setItem(`tentativas-${jogo}`, tentativasFormatado);
+
+		if (!palavrasEmJogo.length) {
+			const jogoCompleto = JSON.stringify(true);
+			localStorage.setItem(`jogoCompleto-${jogo}`, jogoCompleto)
+		}
 	}, [grupoCorreto, palavrasEmJogo, tentativas, jogo])
+
+	useEffect(() => {
+		const jogoCompleto = !palavrasEmJogo.length ? JSON.stringify(true) : JSON.stringify(false);
+		localStorage.setItem(`jogoCompleto-${jogo}`, jogoCompleto)
+	}, [palavrasEmJogo, jogo])
 
 	useEffect(() => {
 		if (chute.length === 4) {
@@ -85,6 +96,8 @@ export default function Jogo() {
 				setPalavrasEmJogo(novasPalavras);
 			} else {
 				const palavras = palavrasEmJogo.map(palavra => { return { ...palavra, selecionado: false } })
+				setGrupoErrado(true);
+				setTimeout(() => setGrupoErrado(false), 1250)
 				somErro()
 				setPalavrasEmJogo(palavras)
 			}
@@ -95,10 +108,11 @@ export default function Jogo() {
 		}
 
 		if (!palavrasEmJogo.length) somJogoCompleto();
-	}, [chute, grupoCorreto, palavrasEmJogo, tentativas, somAcerto, somErro, somJogoCompleto])
+	}, [chute, grupoCorreto, palavrasEmJogo, tentativas, grupoErrado, somAcerto, somErro, somJogoCompleto])
 
 	return (
 		<div className={style.jogo}>
+			{grupoErrado && <img className={style.icone_errado} src={iconeErrado} />}
 			<Menu />
 
 			{palavrasEmJogo.length === 0 && <JogoCompleto tentativas={tentativas} />}
@@ -115,7 +129,7 @@ export default function Jogo() {
 					<PalavrasEmJogo key={palavra.id} palavra={palavra} setChute={setChute} chute={chute} />
 				)}
 			</div>
-			{/* <img src={logoZeus} /> */}
+
 		</div>
 	)
 }

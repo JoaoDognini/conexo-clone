@@ -1,0 +1,14 @@
+.rodape {
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+	height: 150px;
+
+}
+
+.rodape_img {
+	margin: 0;
+	height: auto;
+	max-width: 500px;
+	object-fit: contain;
+}

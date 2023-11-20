@@ -1,13 +1,13 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import './App.css'
+import style from './App.module.scss'
 import TelaInicial from './components/TelaInicial'
 import Jogo from './components/Jogo'
+import Rodape from './components/Rodape'
 
 function App() {
 
-
 	return (
-		<div className='app'>
+		<div className={style.app}>
 			<BrowserRouter>
 				<Routes>
 					<Route path='/' element={<TelaInicial />} />
@@ -15,6 +15,7 @@ function App() {
 				</Routes>
 			</BrowserRouter>
 
+			<Rodape />
 		</div>
 	)
 }

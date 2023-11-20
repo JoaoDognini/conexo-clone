@@ -8,11 +8,19 @@ interface ListaDeJogosProp {
 export default function ListaDeJogos({ jogos }: ListaDeJogosProp) {
 	const navigate = useNavigate();
 
+	function completo(jogo: string) {
+		let jogoFinalizadoFormatado;
+		const jogoFinalizado = localStorage.getItem(`jogoCompleto-${jogo}`)
+		if (jogoFinalizado) jogoFinalizadoFormatado = JSON.parse(jogoFinalizado!);
+
+		return `${jogoFinalizadoFormatado ? style.jogo_completo : ''}`
+	}
+
 	return (
 		<div className={style.jogos}>
 			{jogos.map(jogo =>
 				<button
-					className={style.jogos_botao}
+					className={`${style.jogos_botao} ${completo(jogo)}`}
 					onClick={() => navigate(`/${jogo}`)}
 					key={jogo}
 				>

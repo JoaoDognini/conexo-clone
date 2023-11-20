@@ -1,10 +1,9 @@
 import logo from '../../assets/pense-nisso.png';
 import style from './TelaInicial.module.scss';
 import jogos from '../jogos.json';
-import AlertDialog from './Dialog';
+import PopUpJogos from './Dialog';
 import { useState } from 'react';
 import CheckIcon from '@mui/icons-material/Check';
-// import logoZeus from '../../assets/Zeus-Branco.png';
 
 export default function TelaInicial() {
 	const nomeJogos = Object.keys(jogos)
@@ -18,10 +17,14 @@ export default function TelaInicial() {
 
 	return (
 		<div className={style.tela_inicial}>
-			<img src={logo} />
-			<h2>Mais um Conexo</h2>
-			<p>Forme 4 grupos de 4 palavras que tenham algo em comum</p>
-			<AlertDialog jogos={nomeJogos} />
+			<div className={style.tela_inicial_logo_textos}>
+				<img className={style.img_logo} src={logo} />
+				<div className={style.textos}>
+					<h2>Mais um Conexo</h2>
+					<p>Forme 4 grupos de 4 palavras que tenham algo em comum</p>
+				</div>
+			</div>
+			<PopUpJogos jogos={nomeJogos} />
 			<div className={style.limpar_cache}>
 				<button
 					onClick={limparStorage}
@@ -31,7 +34,6 @@ export default function TelaInicial() {
 
 				{visivel && <CheckIcon className={style.icone} />}
 			</div>
-			{/* <img src={logoZeus} /> */}
 		</div>
 	)
 }
