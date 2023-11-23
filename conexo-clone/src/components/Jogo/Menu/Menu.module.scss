@@ -22,3 +22,24 @@
 	border-radius: 16px;
 	cursor: pointer;
 }
+
+.dialog {
+	background-color: #1E293B;
+	color: #FFF;
+	max-width: 450px;
+	border-radius: 10px;
+	border: 3px solid #FFF;
+
+	h1 {
+		display: flex;
+		align-items: center;
+		font-size: 16px;
+		font-weight: 800;
+		gap: 10px;
+		margin: 0;
+	}
+
+	p {
+		margin: 10px;
+	}
+}

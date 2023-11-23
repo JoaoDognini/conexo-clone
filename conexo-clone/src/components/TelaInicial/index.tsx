@@ -1,4 +1,4 @@
-import logo from '../../assets/pense-nisso.png';
+import logo from '../../assets/identidade-gincana-ferias.png';
 import style from './TelaInicial.module.scss';
 import jogos from '../jogos.json';
 import PopUpJogos from './Dialog';
@@ -20,7 +20,7 @@ export default function TelaInicial() {
 			<div className={style.tela_inicial_logo_textos}>
 				<img className={style.img_logo} src={logo} />
 				<div className={style.textos}>
-					<h2>Mais um Conexo</h2>
+					<h2>Conexo</h2>
 					<p>Forme 4 grupos de 4 palavras que tenham algo em comum</p>
 				</div>
 			</div>

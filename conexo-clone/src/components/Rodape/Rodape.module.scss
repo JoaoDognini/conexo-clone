@@ -1,14 +1,27 @@
 .rodape {
 	display: flex;
 	justify-content: center;
-	margin-top: 30px;
-	height: 150px;
+	margin: 30px 0px;
+	height: 200px;
 
+	.rodape_img {
+		margin: 0;
+		height: auto;
+		max-width: 500px;
+		width: 100%;
+		object-fit: contain;
+	}
 }
 
-.rodape_img {
-	margin: 0;
-	height: auto;
-	max-width: 500px;
-	object-fit: contain;
+@media screen and (max-height: 619px) {
+	.rodape {
+		height: 120px;
+	}
+}
+
+
+@media screen and (max-width: 500px) {
+	.rodape {
+		height: 150px;
+	}
 }

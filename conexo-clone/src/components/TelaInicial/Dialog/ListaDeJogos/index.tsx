@@ -11,9 +11,10 @@ export default function ListaDeJogos({ jogos }: ListaDeJogosProp) {
 	function completo(jogo: string) {
 		let jogoFinalizadoFormatado;
 		const jogoFinalizado = localStorage.getItem(`jogoCompleto-${jogo}`)
+		if (jogoFinalizado === null) return;
 		if (jogoFinalizado) jogoFinalizadoFormatado = JSON.parse(jogoFinalizado!);
 
-		return `${jogoFinalizadoFormatado ? style.jogo_completo : ''}`
+		return `${jogoFinalizadoFormatado ? style.jogo_completo : style.jogo_incompleto}`
 	}
 
 	return (

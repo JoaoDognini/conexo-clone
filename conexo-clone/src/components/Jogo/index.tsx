@@ -14,7 +14,7 @@ import certo from '../../assets/certo.mp3';
 import errado from '../../assets/errado.mp3';
 import jogoCompleto from '../../assets/gameGG.mp3';
 import useSound from 'use-sound';
-import iconeErrado from '../../assets/Icon-Wrong.png';
+import iconeErrado from '../../assets/X.png';
 
 export default function Jogo() {
 	const { jogo } = useParams();
@@ -129,7 +129,6 @@ export default function Jogo() {
 					<PalavrasEmJogo key={palavra.id} palavra={palavra} setChute={setChute} chute={chute} />
 				)}
 			</div>
-
 		</div>
 	)
 }

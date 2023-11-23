@@ -16,11 +16,15 @@
 	color: #FFF;
 }
 
+.jogo_completo,
+.jogo_incompleto {
+	color: black;
+}
+
 .jogo_completo {
-	background-color: rgb(3, 88, 22);
+	background-color: #008000
 }
 
 .jogo_incompleto {
-	color: black;
-	background-color: orange;
+	background-color: #FADE00;
 }
